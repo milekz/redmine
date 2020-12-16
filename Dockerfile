@@ -1,4 +1,4 @@
-FROM redmine:4.1-alpine
+FROM redmine:4.1.1-alpine
 
 RUN apk add --no-cache build-base imagemagick
 
